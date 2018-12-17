@@ -1,0 +1,1 @@
+{1:{"question":'This is a test coder question and test cases.',"test cases": [2, 8, 10, -1, -4],"answers": [4, 64, 100, 1, 16]}}
