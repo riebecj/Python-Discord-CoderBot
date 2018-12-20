@@ -1,0 +1,6 @@
+{0: {'title': 'SQUARED UP\n------------',
+          'question': '\nWrite an algorithm to output the squared value of some integer input.\nImplement this function: `$def func(integer):`',
+          'test_cases': [2, 28, 4, -2, 0, -50],
+          'answers': [4, 784, 16, 4, 0, 2500],
+          'total_points': 100,
+          'time_limit': 1}}
