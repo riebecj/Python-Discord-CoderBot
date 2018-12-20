@@ -25,7 +25,7 @@ loop = asyncio.get_event_loop()
 class Bot(object):
     def __init__(self):
         # Main parts of the bot
-        self.token = 'NTI0MjY3MTUyNTM1MTkxNTU5.Dvlpog.zeHBYGf5A6fD9pm8IOIkQ5rMRis'
+        self.token = ''
         self.prefix = '!'
         self.channel_lock = 'proving-grounds'
         self.authenticator = ''
